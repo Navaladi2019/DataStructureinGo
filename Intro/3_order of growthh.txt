@@ -1,0 +1,11 @@
+
+c < (log log n) < (log n) < n^(1/3) < n^(1/2) < n < n^2 <   n^3 < n^4 < n^5 < 2^n < n^n etc ......
+
+
+1) Asymptotic analysis is the idea to measure order of growth.
+
+
+
+Big O (Exact or Upper)
+Theta (Exatct)
+Omega  (Exact or Lower)
